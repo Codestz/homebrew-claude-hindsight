@@ -1,7 +1,7 @@
 class ClaudeHindsight < Formula
   desc "20/20 hindsight for your Claude Code sessions"
   homepage "https://github.com/Codestz/claude-hindsight"
-  version "1.0.1"
+  version "1.1.0"
   license "MIT"
 
   on_macos do
